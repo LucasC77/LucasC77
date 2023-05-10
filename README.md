@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Lucas Cotrim</h1>
-<h3 align="center">Apaixonado em analise de dados e tecnologia</h3>
+<h3 align="center">Apaixonado por Tecnologia</h3>
 
 - 🌱 Atualmente Estou Aprendendo **Angular, SQL, Express e C#**
 
