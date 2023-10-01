@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Lucas Cotrim</h1>
 <h3 align="center">Apaixonado por Tecnologia</h3>
 
-- 🌱 Atualmente Estou Aprendendo **Nodejs, Html, Css, Angular, SQL, Express e C#**
+- 🌱 Atualmente Estou Aprendendo **Html, Css, Angular, JavaScript, SQLSERVER e C#**
 
 - 📫 Você me acha através do Email **lucascotrim715@gmail.com**
 
